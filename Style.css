@@ -9,7 +9,7 @@ header span{
     display: flex;
     font-weight: bolder;
     font-size: 35px;
-    font-family: "Segoe UI" ,"Script MT Bold";
+
 }
 header img{
     border-radius: 30px;
@@ -49,12 +49,14 @@ footer{
     background-color: lightblue;
     color: green;
     height: 80px;
-    margin: 0px;
+    margin: 0;
     text-align: center;
     padding-top: 15px;
 }.main{
-     height:25%;
+
+     height:28%;
     width: 100%;
+
  }
 .one{
     width: 50%;
@@ -62,8 +64,6 @@ footer{
     position: absolute;
 }
 .two{
-    
     width: 50%;
     float: right;
-    position: relative;
 }
